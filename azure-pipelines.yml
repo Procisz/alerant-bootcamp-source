@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
- Default
+  Default
 
 - task: Maven@3
   inputs:
